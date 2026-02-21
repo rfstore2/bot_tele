@@ -1,0 +1,36 @@
+{
+  "tokenbot": "-",
+  "owner": "6064855493",
+  "ownerurl": "t.me/rfstore_24",
+  "owner_name": "RF STORE",
+  "dataqris": "00020101021126670016COM.NOBUBANK.WWW01189360050300000879140214033367056672580303UMI51440014ID.CO.QRIS.WWW0215ID20232477630630303UMI5204511153033605802ID5908RF STORE6007CIREBON61054515462070703A0163048883",
+  "storename": "RPAYMENT",
+  "invoice": "-1002368752961",
+  "footer": "Copyright © 2020 - 2024 KrisTopup",
+  "bot_name": "BOT || RPAYMENT",
+  "invoice_id": "-1002368752961",
+  "okeconnect": {
+    "merchant": "OK953067",
+    "signature": "-"
+  },
+  "digiflazz": {
+    "username": "xiyejoWXnJOo",
+    "apikey": "-"
+  },
+  "tembakpaket": {
+    "profit": {
+      "member": 10000,
+      "silver": 8000,
+      "gold": 5000,
+      "agen": 0
+    }
+  },
+  "mess": {
+    "daftar": "Halo kak, silahkan daftar terlebih dahulu supaya bisa menggunakan fitur fitur yang ada di bot",
+    "trx_pending": "Halo Kak, Transaksi kamu masih ada yang pending Silahkan konfirmasi transaksi atau kamu bisa batalkan pesanan dengan Klik button di bawah ini",
+    "depo_pending": "Halo Kak, kamu sedang melakukan deposit sebelumnya silahkan Lanjutkan deposit sebelum melakukan deposit baru, atau kamu bisa batalkan deposit nya",
+    "deposit_null": "Halo kak, Sepertinya kamu belum melakukan deposit, jadi tidak bisa menggunakan fitur ini, silahkan deposit terlebih dahulu ya Kak",
+    "trx_null": "Halo Kak, Silahkan pesan produk terlebih dahulu untuk melanjutkan transaksi",
+    "owner": "Mohon maaf kak, bot tidak mengijinkan kamu menggunaka fitur ini, dikarenakan hanya admin saja yang dapat menggunakan fitur ini"
+  }
+}
