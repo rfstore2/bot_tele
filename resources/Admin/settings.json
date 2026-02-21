@@ -1,20 +1,20 @@
 {
   "tokenbot": "-",
-  "owner": "6064855493",
-  "ownerurl": "t.me/rfstore_24",
-  "owner_name": "RF STORE",
-  "dataqris": "00020101021126670016COM.NOBUBANK.WWW01189360050300000879140214033367056672580303UMI51440014ID.CO.QRIS.WWW0215ID20232477630630303UMI5204511153033605802ID5908RF STORE6007CIREBON61054515462070703A0163048883",
-  "storename": "RPAYMENT",
+  "owner": "-",
+  "ownerurl": "-",
+  "owner_name": "-",
+  "dataqris": "_"
+  "storename": "-",
   "invoice": "-1002368752961",
-  "footer": "Copyright © 2020 - 2024 KrisTopup",
-  "bot_name": "BOT || RPAYMENT",
-  "invoice_id": "-1002368752961",
+  "footer": "Copyright © 2020 - 2024 -",
+  "bot_name": "BOT || -",
+  "invoice_id": "-",
   "okeconnect": {
-    "merchant": "OK953067",
+    "merchant": "-",
     "signature": "-"
   },
   "digiflazz": {
-    "username": "xiyejoWXnJOo",
+    "username": "-",
     "apikey": "-"
   },
   "tembakpaket": {
